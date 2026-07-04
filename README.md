@@ -1,6 +1,6 @@
 <!-- ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif) -->
 <h1 align="center">
-  Hey there, I am Pradnya!
+  Hey there, I am Vedant!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
 </h1>
 
