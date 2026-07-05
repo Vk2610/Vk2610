@@ -20,12 +20,12 @@ Currently focused on **Cloud, DevOps, Backend Engineering**, while exploring **S
 
 <img align="right" src="medium-wave.gif" height="300">
 
-- A hands-on creative software developer with **strong problem-solving abilities and attention to detail**.   
-- I’m a **full-stack developer** who loves to **build scalable systems and optimize infrastructure**.   
-- I’m looking for help with **cutting-edge infrastructure & performance engineering**  
-- Currently focused on **Cloud, DevOps, Backend Engineering**, while exploring **System Design, Advanced Backend Architectures**. 
+* A passionate **full-stack developer** with strong **problem-solving skills, attention to detail, and a focus on building user-centric applications**.
+* I enjoy developing **scalable web applications** using modern technologies like **React, Node.js, Express, and MySQL/MongoDB**, while continuously improving performance and user experience.
+* I'm always eager to work on **real-world projects**, collaborate with others, and learn new technologies that help me grow as a software engineer.
+ 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232671E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradnya-kumbhar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232671E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkumbhar9654/))
 
 <h2> </h2>
 
