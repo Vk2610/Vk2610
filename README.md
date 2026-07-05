@@ -25,7 +25,7 @@ Currently focused on **Cloud, DevOps, Backend Engineering**, while exploring **S
 * I'm always eager to work on **real-world projects**, collaborate with others, and learn new technologies that help me grow as a software engineer.
  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232671E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkumbhar9654/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232671E5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkumbhar9654/)
 
 <h2> </h2>
 
@@ -33,7 +33,7 @@ Currently focused on **Cloud, DevOps, Backend Engineering**, while exploring **S
 
 ### Programming & Styling Languages  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frameworks, Platforms & Libraries  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
@@ -47,9 +47,11 @@ Currently focused on **Cloud, DevOps, Backend Engineering**, while exploring **S
 ### Tools & Others  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)  
 
-## 🚀 Currently Geeking Out On  
+## 🚀 Currently Geeking Out On
 
-- ⚡ Building scalable backend systems with **Node.js, Express & PostgreSQL**
-- ☁️ Deploying and managing applications on **cloud platforms**.  
-- 🔄 Learning **DevOps practices**: CI/CD pipelines, Docker & containerization  
-- 🔧 Mastering **System Design** patterns and **Advance Backend Architecture**
+* 🐍 Building projects with **Python** for automation, scripting, and application development.
+* 📊 Exploring **Data Analysis** using Python libraries to extract insights and visualize data.
+* 🤖 Learning **MLOps** workflows, model deployment, and machine learning pipelines.
+* 🌐 Developing modern, responsive **full-stack web applications** with **React, Node.js, Express, and MySQL/MongoDB**.
+* 📚 Continuously improving my understanding of **System Design**, scalable architectures, and software engineering best practices.
+
